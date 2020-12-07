@@ -2,7 +2,9 @@
 實作一個簡單的多檔案上傳
 
 # 說明
-  
+```html
+<input type="file" name="photos" id="photos" multiple />
+```  
 
 # 注意事項
 專案建立：建立空白的MVC專案 <br/>
