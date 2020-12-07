@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>多檔案上傳</title>
+</head>
+<body>
+    <form action="@Url.Action("Create")" method="post" enctype="multipart/form-data">
+        <div>
+            <input type="file" name="photos" id="photos" multiple />
+            <input type="submit" value="檔案上傳" />
+        </div>
+    </form>
+
+</body>
+</html>
+
