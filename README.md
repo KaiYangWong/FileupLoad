@@ -5,5 +5,5 @@
 專案建立：建立空白的MVC專案
 因為是空白的MVC專案，所以在執行專案時會找不到資源，避免每次都要用手輸入路徑，所以要記得去RouteConfig.cs底下修改路徑喔
 
-[Markdown Live Preview](https://progressbar.tw/posts/105).
+[MVC下的URL Route 設定](https://progressbar.tw/posts/105).
 [C#][.Net MVC] 03. MVC下的URL Route 設定
