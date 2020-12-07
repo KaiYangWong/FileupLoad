@@ -5,6 +5,7 @@
 ```html
 <input type="file" name="photos" id="photos" multiple />
 ```  
+做法很簡單，只要在input上加入multiple就可以囉~
 
 # 注意事項
 專案建立：建立空白的MVC專案 <br/>
